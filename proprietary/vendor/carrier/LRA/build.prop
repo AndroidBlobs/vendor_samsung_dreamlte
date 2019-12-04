@@ -1,0 +1,7 @@
+ro.ril.ecclist=911,#911,*911,*272911,*272*911,*272#911
+ro.telephony.default_network=10
+ro.com.android.dataroaming=true
+ro.cdma.home.operator.numeric=310000
+ro.cdma.home.operator.alpha=Default
+telephony.lteOnCdmaDevice=1
+vendor.ril.debug.sales_code=LRA
